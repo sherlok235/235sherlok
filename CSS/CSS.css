@@ -1,0 +1,40 @@
+html, body {
+			height: 100%;
+			margin: 0;
+			padding: 0;
+		}
+ #map{
+	width: 100%;
+	height: 100%;
+	position:fixed;
+	}
+	.new {
+		height: 81px;
+		width: 40px;
+		background: #ffffff;
+		position: relative;
+		z-index: 1;
+		bottom: 104px;
+		left:1200px;
+		border-radius: 20%;
+	}
+	.option-1{
+		height: 40px;
+		width: 100%;
+		position:relative;
+		left:10px;
+		top: 5px;
+	}
+	.option-2{
+		height: 1px;
+		width: 30px;
+		margin-left: 5px;
+		background-color: #e6e6e6;
+	}
+	.option-3{
+		height: 40px;
+		width: 100%;
+		position:relative;
+		left:10px;
+		top: 10px;
+	}
